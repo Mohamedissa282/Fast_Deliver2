@@ -57,12 +57,12 @@ Projet réalisé dans le cadre de ma formation en développement informatique, v
 
 <p align="center">
   <b>7️⃣ Activation ou Désactivation des notifications</b><br>
-  <img src="screenshots/activer_notifications.jpeg" width="300">
+  <img src="screen/activer_notifications.jpeg" width="300">
 </p>
 
 ## Installation
 ### 1- Cloner le repository
-git clone https://github.com/Mohamedissa282/Fast-Delivery.git
+git clone https://github.com/Mohamedissa282/Fast_Deliver2.git
   - **cd Fast-Delivery**
 
 ### 2- Installer les dépendances
