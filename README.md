@@ -28,3 +28,50 @@ Projet réalisé dans le cadre de ma formation en développement informatique, v
 - MySQL (Base de données)
 - Firebase Cloud Messaging (Notifications)
 - Postman (Tests API)  
+
+## Captures d'écran (flow livreur)
+<p align="center">
+  <b>1️⃣ Connexion livreur</b><br>
+  <img src="screen/page_connexion.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>2️⃣ Page d'accueil (position actuelle)</b><br>
+  <img src="screen/page_d'acceuil.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>3️⃣ Réception d'une notification</b><br>
+  <img src="screen/notifications.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>4️⃣ Détails de la demande</b><br>
+  <img src="screen/distance_prix.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>6️⃣ Consultation du solde</b><br>
+  <img src="screen/profil2.jpeg" width="300">
+</p>
+
+<p align="center">
+  <b>7️⃣ Activation ou Désactivation des notifications</b><br>
+  <img src="screenshots/activer_notifications.jpeg" width="300">
+</p>
+
+## Installation
+### 1- Cloner le repository
+git clone https://github.com/Mohamedissa282/Fast-Delivery.git
+  - **cd Fast-Delivery**
+
+### 2- Installer les dépendances
+  - **flutter pub get**
+
+### 3- Lancer l’application
+   - **flutter run**
+
+#  Explications
+- **git clone** → récupère le projet depuis GitHub  
+- **flutter pub get** → installe toutes les dépendances nécessaires pour Flutter  
+- **flutter run** → lance l’application sur ton émulateur ou téléphone  
