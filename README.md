@@ -31,32 +31,32 @@ Projet réalisé dans le cadre de ma formation en développement informatique, v
 
 ## Captures d'écran (flow livreur)
 <p align="center">
-  <b>1️⃣ Connexion livreur</b><br>
+  <b>1️- Connexion livreur</b><br>
   <img src="screen/page_connexion.jpeg" width="300">
 </p>
 
 <p align="center">
-  <b>2️⃣ Page d'accueil (position actuelle)</b><br>
+  <b>2️- Page d'accueil (position actuelle)</b><br>
   <img src="screen/page_d'acceuil.jpeg" width="300">
 </p>
 
 <p align="center">
-  <b>3️⃣ Réception d'une notification</b><br>
+  <b>3️- Réception d'une notification</b><br>
   <img src="screen/notifications.jpeg" width="300">
 </p>
 
 <p align="center">
-  <b>4️⃣ Détails de la demande</b><br>
+  <b>4️- Détails de la demande</b><br>
   <img src="screen/distance_prix.jpeg" width="300">
 </p>
 
 <p align="center">
-  <b>6️⃣ Consultation du solde</b><br>
+  <b>6️- Consultation du solde</b><br>
   <img src="screen/profil2.jpeg" width="300">
 </p>
 
 <p align="center">
-  <b>7️⃣ Activation ou Désactivation des notifications</b><br>
+  <b>7️- Activation ou Désactivation des notifications</b><br>
   <img src="screen/activer_notifications.jpeg" width="300">
 </p>
 
